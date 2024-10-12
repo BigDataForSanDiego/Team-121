@@ -12,8 +12,7 @@
 
 #### A visual
 
-![knee'ed prototype](images/initial prototype.jpeg)
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true">
+<img height="10%" width="50%" alt="HDMA" src="images/initial prototype.jpeg">
 
 <!--
 #### Theme: Enhancing Healthcareâ€™s Digital Front Door
