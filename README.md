@@ -4,11 +4,11 @@
 
 #### Team Name: `Aquafaba Matcha🍵`
 
-#### Your teamâ€™s hackathon idea in One sentence:
+#### Your team's hackathon idea in one sentence:
 
-##### `Knee'ed - Your Home Physical Therapist`
+##### Title: `Knee'ed - Your Home Physical Therapist`
 
-##### `Providing accessible physical therapy at home, specifically for UKneeQue knee injuries.`
+##### Description: `Providing accessible physical therapy at home, specifically for UKneeQue knee injuries.`
 
 #### A visual
 
