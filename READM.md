@@ -1,15 +1,15 @@
 ### 2025 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: `121`  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `Home Hackers`    
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: `RogueShado`
 
-#### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
+#### Team Members `John Edmonston-DTWJohn Ali Miller-alim262 Annette Rodriguez-annetteirenerodriguez Ethan Wilden-RogueShado`
 
 #### Your teamâ€™s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### `An App to help homeless navigate to the nearest food and home shelters.`
 
 #### A visual
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/images/big_data_2025_clip.png?raw=true "Big Data Hackathon for San Diego 2025")
